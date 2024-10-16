@@ -4,9 +4,9 @@
 
 2. Langkah 2: Menambahkan Plugin
 
-![Penambahan Plugin](../assets/2.png)
+![Penambahan Plugin](image/2.png)
 
-![Tampilan nama plugin beserta versinya di file pubspec.yaml](../assets/2b.png)
+![Tampilan nama plugin beserta versinya di file pubspec.yaml](image/2b.png)
 
 3. Langkah 3: Buat file red_text_widget.dart
 ```dart
@@ -60,7 +60,7 @@ children: <Widget>[
 ```
 
 ## Tampilan Hasil Program
-![Output Praktikum](../assets/result.png)
+![Output Praktikum](image/result.png)
 
 
 ## Tugas Praktikum
